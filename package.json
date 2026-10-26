@@ -1,0 +1,21 @@
+{
+    "version":  "1.0.0",
+    "repository":  {
+                       "type":  "git",
+                       "url":  "https://github.com/Machine4321/checkers-browser-extension.git"
+                   },
+    "keywords":  [
+                     "checkers",
+                     "draughts",
+                     "browser-extension",
+                     "firefox-addon",
+                     "edge-extension",
+                     "pdn",
+                     "nextcheckersmove"
+                 ],
+    "name":  "next-checkers-move-extension",
+    "description":  "Official Manifest V3 Browser Extension for Next Checkers Move (https://nextcheckersmove.com/) — 3400+ Elo AI Checkers Solver \u0026 1-32 PDN Coordinate Map.",
+    "author":  "Mikko Palovuori (https://nextcheckersmove.com/)",
+    "homepage":  "https://nextcheckersmove.com/",
+    "license":  "MIT"
+}
